@@ -36,6 +36,7 @@ There is a *Postman* collection at [Interviewer.postman_collection.json](https:/
 - Feel free to spend as much or as little time on the exercise as you like
 - Feel free to use whatever additional frameworks / libraries / packages you like
 - Your code should be in a state that you would feel comfortable releasing to production
+- The endpoints for the same token might be called from multiple clients concurrently.
 - Writing unit/integration tests are optional but highly encouraged
 
 # Questions
