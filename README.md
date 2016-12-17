@@ -7,6 +7,8 @@ Thank you for taking the time to do this technical test. There are two parts to 
 - [and a few questions](#questions) - just to find out a bit more about you
 
 Please submit your results as a **zip** file containing **both** the **coding test** in a folder and the **markdown file** with your answers to the questions. Share a private link to this zip file in your Dropbox / Google Drive / OneDrive / wherever.
+Please use a local git repo to source control your code and donot flatten commits.
+Please include the entire git repo in the source zip file, we would like to see how the code evolved.
 
 ## Coding Test
 
